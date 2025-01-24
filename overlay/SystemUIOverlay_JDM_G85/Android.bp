@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "SystemUIOverlay_JDM_G85",
+    sdk_version: "current",
+    product_specific: true,
+}
