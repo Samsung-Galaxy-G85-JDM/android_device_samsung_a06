@@ -23,6 +23,7 @@ PRODUCT_MODEL := Galaxy A06
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+WITH_GMS := true
 
 TARGET_EXCLUDES_AUDIOFX := true
 
