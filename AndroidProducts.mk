@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a06.mk
+    $(LOCAL_DIR)/orion_a06.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_a06-user \
-    lineage_a06-userdebug \
-    lineage_a06-eng
+    orion_a06-user \
+    orion_a06-userdebug \
+    orion_a06-eng
